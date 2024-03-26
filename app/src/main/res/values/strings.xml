@@ -341,4 +341,7 @@
     <string name="spend">Spend</string>
     <string name="receive">Receive</string>
     <string name="amountParsingFailed">Invalid amount</string>
+    <string name="exportStartedCheckNotifications">Export started, check your notifications for the result</string>
+    <string name="importStartedCheckNotifications">Import started, check your notifications for the result</string>
+    <string name="postNotificationsPermissionRequired">Permission to show notifications needed for this action…</string>
 </resources>
